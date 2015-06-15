@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<licenses>
+    <valid>
+        <license>
+            <id>MIT</id>
+            <description>The MIT License (MIT)</description>
+            <names>
+                <name>MIT</name>
+                <name>MIT License</name>
+                <name>The MIT License</name>
+                <name>The MIT License (MIT)</name>
+            </names>
+            <urls>
+                <url>http://opensource.org/licenses/MIT</url>
+                <url>LICENSE.txt</url>
+            </urls>
+        </license>
+    </valid>
+
+    <invalid>
+    </invalid>
+
+    <warning>
+    </warning>
+</licenses>
