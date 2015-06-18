@@ -1,5 +1,5 @@
 # Alfresco NTLMv1 MD4 password hash generator
-This tiny tool generates the NTMLv1 MD4 hash of any string so you can
+This tiny tool generates the NTLMv1 MD4 hash of any string so you can
 overwrite the admin password in the database: 
 
 1. Generate the hash of your desired password (for example password "admin"):
