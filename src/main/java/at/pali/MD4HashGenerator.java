@@ -28,7 +28,7 @@ public class MD4HashGenerator
 
         if (password != "")
         {
-            System.out.println("NTMLv1 MD4 Hash of password '" + password + "' is: " + getMD4(password));
+            System.out.println("NTLMv1 MD4 Hash of password '" + password + "' is: " + getMD4(password));
         } else
         {
             System.out.println("No password provided.");
